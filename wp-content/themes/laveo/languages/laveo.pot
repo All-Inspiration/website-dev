@@ -1,0 +1,672 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Laveo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-10 03:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Laveo <admin@physcode.com>\n"
+"Language-Team: Laveo\n"
+"Language: EG\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: /themes/laveo/404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: /themes/laveo/404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: /themes/laveo/404.php:29
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: /themes/laveo/404.php:46
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: /themes/laveo/comments.php:30
+msgctxt "comments title"
+msgid "Comment (%1$s) | %2$s"
+msgid_plural "Comments (%1$s) | %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /themes/laveo/comments.php:32 
+#: /themes/laveo/inc/template-tags.php:112
+msgid "Leave a comment"
+msgstr ""
+
+#: /themes/laveo/comments.php:47
+msgid "Comment navigation"
+msgstr ""
+
+#: /themes/laveo/comments.php:49
+msgid "Older Comments"
+msgstr ""
+
+#: /themes/laveo/comments.php:50
+msgid "Newer Comments"
+msgstr ""
+
+#: /themes/laveo/comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#: /themes/laveo/comments.php:69
+msgid "submit"
+msgstr ""
+
+#: /themes/laveo/comments.php:72
+msgid "<h3 class=\"c_title clear\">Leave a Comment</h3>"
+msgstr ""
+
+#: /themes/laveo/comments.php:76
+msgid "Your email address will not be published."
+msgstr ""
+
+#: /themes/laveo/comments.php:79
+msgid "Name*"
+msgstr ""
+
+#: /themes/laveo/comments.php:80
+msgid "Email*"
+msgstr ""
+
+#: /themes/laveo/comments.php:81
+msgid "Website"
+msgstr ""
+
+#: /themes/laveo/comments.php:84
+msgid "Message*"
+msgstr ""
+
+#: /themes/laveo/footer.php:32
+msgid "&copy; 2016 Laveo. All rights reserved."
+msgstr ""
+
+#: /themes/laveo/functions.php:58
+msgid "Primary Menu"
+msgstr ""
+
+#: /themes/laveo/functions.php:119
+msgid "Sidebar"
+msgstr ""
+
+#: /themes/laveo/functions.php:129
+msgid "Top Banner Widget Area"
+msgstr ""
+
+#: /themes/laveo/functions.php:131
+msgid "Top Banner widget area"
+msgstr ""
+
+#: /themes/laveo/functions.php:139
+msgid "Footer Widget Area"
+msgstr ""
+
+#: /themes/laveo/functions.php:141
+msgid "The footer widget area"
+msgstr ""
+
+#: /themes/laveo/search.php:16
+msgid "Search Results for: %s"
+msgstr ""
+
+#: /themes/laveo/inc/custom_functions.php:5
+msgid "Physcode Widget"
+msgstr ""
+
+#: /themes/laveo/inc/custom_functions.php:171
+msgid "Your comment is waiting for moderation."
+msgstr ""
+
+#: /themes/laveo/inc/custom_functions.php:177
+msgid " | Edit"
+msgstr ""
+
+#: /themes/laveo/inc/custom_functions.php:180
+msgid "%s"
+msgstr ""
+
+#: /themes/laveo/inc/custom_functions.php:183
+msgid "%1$s"
+msgstr ""
+
+#: /themes/laveo/inc/custom_functions.php:183
+msgid "d/m/Y"
+msgstr ""
+
+#: /themes/laveo/inc/relatedposts.php:2
+msgid "Related"
+msgstr ""
+
+#: /themes/laveo/inc/relatedposts.php:24 
+#: /themes/laveo/template-parts/content-search.php:27 
+#: /themes/laveo/template-parts/content.php:28
+msgid "Posted in"
+msgstr ""
+
+#: /themes/laveo/inc/relatedposts.php:33
+msgid ""
+"<div id=\"archive-error\"><p class=\"error-message\">Sorry. There are no "
+"related articles at this time.</p></div>"
+msgstr ""
+
+#: /themes/laveo/inc/template-tags.php:43
+msgid "Prev"
+msgstr ""
+
+#: /themes/laveo/inc/template-tags.php:44
+msgid "Next"
+msgstr ""
+
+#: /themes/laveo/inc/template-tags.php:76
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: /themes/laveo/inc/template-tags.php:81
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: /themes/laveo/inc/template-tags.php:98 
+#: /themes/laveo/inc/template-tags.php:104
+msgid ", "
+msgstr ""
+
+#: /themes/laveo/inc/template-tags.php:100
+msgid "Posted in %1$s"
+msgstr ""
+
+#: /themes/laveo/inc/template-tags.php:106
+msgid "Tagged %1$s"
+msgstr ""
+
+#: /themes/laveo/inc/template-tags.php:112
+msgid "1 Comment"
+msgstr ""
+
+#: /themes/laveo/inc/template-tags.php:112
+msgid "% Comments"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: /themes/laveo/inc/template-tags.php:119
+msgid "Edit %s"
+msgstr ""
+
+#. Name of the template
+msgid "Home Page"
+msgstr ""
+
+#: /themes/laveo/template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: /themes/laveo/template-parts/content-none.php:20
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: /themes/laveo/template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: /themes/laveo/template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: /themes/laveo/template-parts/content-page.php:16 
+#: /themes/laveo/template-parts/content-search.php:31 
+#: /themes/laveo/template-parts/content-single.php:43 
+#: /themes/laveo/template-parts/content.php:32
+msgid "Pages:"
+msgstr ""
+
+#: /themes/laveo/template-parts/content-search.php:19 
+#: /themes/laveo/template-parts/content.php:20 
+#: /themes/laveo/inc/widgets/widgets.php:496
+msgid "F j, Y"
+msgstr ""
+
+#: /themes/laveo/template-parts/content-search.php:21 
+#: /themes/laveo/template-parts/content-single.php:17 
+#: /themes/laveo/template-parts/content.php:22 
+#: /themes/laveo/inc/widgets/widgets.php:496
+msgid "No Comment"
+msgstr ""
+
+#: /themes/laveo/template-parts/content-search.php:21 
+#: /themes/laveo/template-parts/content-single.php:17 
+#: /themes/laveo/template-parts/content.php:22 
+#: /themes/laveo/inc/widgets/widgets.php:300 
+#: /themes/laveo/inc/widgets/widgets.php:496 
+#: /themes/laveo/inc/widgets/widgets.php:518 
+#: /themes/laveo/inc/widgets/widgets.php:550
+msgid "1 comment"
+msgstr ""
+
+#: /themes/laveo/template-parts/content-search.php:21 
+#: /themes/laveo/template-parts/content-single.php:17 
+#: /themes/laveo/template-parts/content.php:22 
+#: /themes/laveo/inc/widgets/widgets.php:300 
+#: /themes/laveo/inc/widgets/widgets.php:496 
+#: /themes/laveo/inc/widgets/widgets.php:518 
+#: /themes/laveo/inc/widgets/widgets.php:550
+msgid "% comments"
+msgstr ""
+
+#: /themes/laveo/template-parts/content-single.php:14
+msgid "Views:"
+msgstr ""
+
+#: /themes/laveo/template-parts/content-single.php:14
+msgid "Categories:"
+msgstr ""
+
+#: /themes/laveo/template-parts/content-single.php:17 
+#: /themes/laveo/inc/widgets/widgets.php:300 
+#: /themes/laveo/inc/widgets/widgets.php:518 
+#: /themes/laveo/inc/widgets/widgets.php:550
+msgid "M j, Y"
+msgstr ""
+
+#: /themes/laveo/template-parts/content-single.php:17
+msgid "By:"
+msgstr ""
+
+#: /themes/laveo/template-parts/content-single.php:21
+msgid "Please Share"
+msgstr ""
+
+#: /themes/laveo/template-parts/content-single.php:23
+msgid "Tweet"
+msgstr ""
+
+#: /themes/laveo/template-parts/content-single.php:31
+msgid "Email This"
+msgstr ""
+
+#: /themes/laveo/template-parts/content-single.php:34
+msgid "Print This"
+msgstr ""
+
+#: /themes/laveo/template-parts/content-single.php:51
+msgid "About %s"
+msgstr ""
+
+#: /themes/laveo/template-parts/content-single.php:56
+msgid "Browse Archived Articles by"
+msgstr ""
+
+#: /themes/laveo/inc/widgets/widgets.php:40
+msgid "Extra Class"
+msgstr ""
+
+#: /themes/laveo/inc/widgets/widgets.php:188
+msgid "Recent"
+msgstr ""
+
+#: /themes/laveo/inc/widgets/widgets.php:189
+msgid "Popular"
+msgstr ""
+
+#: /themes/laveo/inc/widgets/widgets.php:190
+msgid "Tag cloud"
+msgstr ""
+
+#: /themes/laveo/inc/widgets/widgets.php:247 
+#: /themes/laveo/inc/widgets/widgets.php:924
+msgid "Title"
+msgstr ""
+
+#: /themes/laveo/inc/widgets/widgets.php:251
+msgid "Number of posts to show:"
+msgstr ""
+
+#: /themes/laveo/inc/widgets/widgets.php:300 
+#: /themes/laveo/inc/widgets/widgets.php:518 
+#: /themes/laveo/inc/widgets/widgets.php:550
+msgid "No comment"
+msgstr ""
+
+#: /themes/laveo/inc/widgets/widgets.php:303
+msgid "Read More"
+msgstr ""
+
+#: /themes/laveo/inc/widgets/widgets.php:328 
+#: /themes/laveo/inc/widgets/widgets.php:432 
+#: /themes/laveo/inc/widgets/widgets.php:608 
+#: /themes/laveo/inc/widgets/widgets.php:1025
+msgid "Select Category"
+msgstr ""
+
+#: /themes/laveo/inc/widgets/widgets.php:421
+msgid "Hot news title"
+msgstr ""
+
+#: /themes/laveo/inc/widgets/widgets.php:426
+msgid "Number Post"
+msgstr ""
+
+#: /themes/laveo/inc/widgets/widgets.php:518
+msgid "with"
+msgstr ""
+
+#: /themes/laveo/inc/widgets/widgets.php:623
+msgid "Total posts number"
+msgstr ""
+
+#: /themes/laveo/inc/widgets/widgets.php:627
+msgid "Color Scheme"
+msgstr ""
+
+#: /themes/laveo/inc/widgets/widgets.php:642
+msgid "Layout Style"
+msgstr ""
+
+#: /themes/laveo/inc/widgets/widgets.php:646 
+#: /themes/laveo/inc/widgets/widgets.php:648
+msgid "Style 1"
+msgstr ""
+
+#: /themes/laveo/inc/widgets/widgets.php:651 
+#: /themes/laveo/inc/widgets/widgets.php:653
+msgid "Style 2"
+msgstr ""
+
+#: /themes/laveo/inc/widgets/widgets.php:656 
+#: /themes/laveo/inc/widgets/widgets.php:658
+msgid "Style 3"
+msgstr ""
+
+#: /themes/laveo/inc/widgets/widgets.php:787
+msgid "Twitter URL"
+msgstr ""
+
+#: /themes/laveo/inc/widgets/widgets.php:791
+msgid "Facebook URL"
+msgstr ""
+
+#: /themes/laveo/inc/widgets/widgets.php:795
+msgid "Google URL"
+msgstr ""
+
+#: /themes/laveo/inc/widgets/widgets.php:799
+msgid "Linkedin URL"
+msgstr ""
+
+#: /themes/laveo/inc/widgets/widgets.php:803
+msgid "Youtube"
+msgstr ""
+
+#: /themes/laveo/inc/widgets/widgets.php:807
+msgid "Subscribe URL"
+msgstr ""
+
+#: /themes/laveo/inc/widgets/widgets.php:811
+msgid "Stumbleupon URL"
+msgstr ""
+
+#: /themes/laveo/inc/widgets/widgets.php:815
+msgid "Digg URL"
+msgstr ""
+
+#: /themes/laveo/inc/widgets/widgets.php:929
+msgid "Number Comments:"
+msgstr ""
+
+#: /themes/laveo/inc/widgets/widgets.php:934
+msgid "Excerpt length:"
+msgstr ""
+
+#: /themes/laveo/inc/widgets/widgets.php:939
+msgid "Avatar Size:"
+msgstr ""
+
+#: /themes/laveo/inc/widgets/widgets.php:1020
+msgid "Image gallery title"
+msgstr ""
+
+#: /themes/laveo/inc/admin/register-sections/color.php:5
+msgid "General Color"
+msgstr ""
+
+#: /themes/laveo/inc/admin/register-sections/color.php:11
+msgid "Primary Color"
+msgstr ""
+
+#: /themes/laveo/inc/admin/register-sections/color.php:19
+msgid "Secondary Color"
+msgstr ""
+
+#: /themes/laveo/inc/admin/register-sections/color.php:27
+msgid "Color 3"
+msgstr ""
+
+#: /themes/laveo/inc/admin/register-sections/color.php:35
+msgid "Color 4"
+msgstr ""
+
+#: /themes/laveo/inc/admin/register-sections/color.php:43
+msgid "Color 5"
+msgstr ""
+
+#: /themes/laveo/inc/admin/register-sections/color.php:51
+msgid "Color 6"
+msgstr ""
+
+#: /themes/laveo/inc/admin/register-sections/color.php:59
+msgid "Color 7"
+msgstr ""
+
+#: /themes/laveo/inc/admin/register-sections/custom-css.php:4 
+#: /themes/laveo/inc/admin/register-sections/custom-css.php:10
+msgid "Custom Css"
+msgstr ""
+
+#: /themes/laveo/inc/admin/register-sections/footer.php:5
+msgid "Copyright"
+msgstr ""
+
+#: /themes/laveo/inc/admin/register-sections/footer.php:11
+msgid "Text Copyright"
+msgstr ""
+
+#: /themes/laveo/inc/admin/register-sections/logo.php:5
+msgid "Logo"
+msgstr ""
+
+#: /themes/laveo/inc/admin/register-sections/logo.php:11
+msgid "Upload Logo"
+msgstr ""
+
+#: /themes/laveo/inc/admin/register-sections/typography.php:12
+msgid "Typography"
+msgstr ""
+
+#: /themes/laveo/inc/admin/register-sections/typography.php:21
+msgid "Body"
+msgstr ""
+
+#: /themes/laveo/inc/admin/register-sections/typography.php:27 
+#: /themes/laveo/inc/admin/register-sections/typography.php:54
+msgid "Font Family"
+msgstr ""
+
+#: /themes/laveo/inc/admin/register-sections/typography.php:36
+msgid "Font Size"
+msgstr ""
+
+#: /themes/laveo/inc/admin/register-sections/typography.php:48
+msgid "Heading"
+msgstr ""
+
+#: /themes/laveo/inc/admin/required-plugins/plugins-require.php:83
+msgid "Install Required Plugins"
+msgstr ""
+
+#: /themes/laveo/inc/admin/required-plugins/plugins-require.php:84
+msgid "Install Plugins"
+msgstr ""
+
+#: /themes/laveo/inc/admin/required-plugins/plugins-require.php:85
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: /themes/laveo/inc/admin/required-plugins/plugins-require.php:87
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: /themes/laveo/inc/admin/required-plugins/plugins-require.php:88
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: /themes/laveo/inc/admin/required-plugins/plugins-require.php:94
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: /themes/laveo/inc/admin/required-plugins/plugins-require.php:100
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: /themes/laveo/inc/admin/required-plugins/plugins-require.php:106
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: /themes/laveo/inc/admin/required-plugins/plugins-require.php:112
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: /themes/laveo/inc/admin/required-plugins/plugins-require.php:118
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: /themes/laveo/inc/admin/required-plugins/plugins-require.php:124
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: /themes/laveo/inc/admin/required-plugins/plugins-require.php:130
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: /themes/laveo/inc/admin/required-plugins/plugins-require.php:136
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: /themes/laveo/inc/admin/required-plugins/plugins-require.php:142
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /themes/laveo/inc/admin/required-plugins/plugins-require.php:147
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /themes/laveo/inc/admin/required-plugins/plugins-require.php:152
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /themes/laveo/inc/admin/required-plugins/plugins-require.php:157
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: /themes/laveo/inc/admin/required-plugins/plugins-require.php:158
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: /themes/laveo/inc/admin/required-plugins/plugins-require.php:159
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: /themes/laveo/inc/admin/required-plugins/plugins-require.php:160
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: /themes/laveo/inc/admin/required-plugins/plugins-require.php:162
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: /themes/laveo/inc/admin/required-plugins/plugins-require.php:164
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: /themes/laveo/inc/admin/required-plugins/plugins-require.php:166
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#. Name of the theme
+msgid "laveo"
+msgstr ""
+
+#. Description of the theme
+msgid "Description"
+msgstr ""
+
+#. URI of the theme
+msgid "http://laveo.physcode.com"
+msgstr ""
+
+#. Author of the theme
+msgid "Physcode"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://physcode.com/"
+msgstr ""

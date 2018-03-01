@@ -1,0 +1,307 @@
+body {
+	font-family: $font_family_body;
+	font-size:   $font_size_body
+}
+
+#title-area a, #footer .footer-widget h3, .entry-title, #top ul li a, .nav li a, #headline h3,
+.category_news .hentry_widget h3, .category_news .hentry_widget1 h3, .widget h4, .sidebar h3, .wpb_heading, .widgettitle,
+.category_news .hentry_widget h4, .category_news .hentry_widget1 h4, .nivo-caption h4 a, .gallery h3,
+.tabs1 div ul li a, .nivo-caption .readmore, h1, h2, h3, h4, h5, h6 {
+	font-family: $font_family_heading
+}
+
+//color 1
+.category_news .color1 ul li a:hover, .category_news .color1 h4 a:hover {
+	color: $color1 !important
+}
+
+.category_news .color1 h3 {
+	background: $color1;
+}
+
+.category_news .color1 img {
+	border-top: 2px solid $color1
+}
+
+.category_news .color1 .info {
+	background: $color1;
+}
+
+.category_news .color1 ul li span {
+	background: $color1;
+}
+
+#header_area .color1 a {
+	border-color: $color1 !important;
+}
+
+#header_area .color1 a:hover,#header_area .color1.current-menu-item a {
+	background: $color1 !important
+}
+
+.style2 .color1 ul, .style3 .#{$color1} ul {
+	border-top: 2px solid $color1
+}
+
+.style2 .color1 ul .thumb:hover {
+	border: 4px solid $color1;
+}
+
+.style3 .color1 ul .thumb:hover {
+	border: 4px solid $color1;
+}
+
+.headline a:hover {
+	color: $color1
+}
+
+.headline li img:hover, .nivo-caption h4 a:hover {
+	border-color: $color1
+}
+
+//color 2
+.category_news .color2 ul li a:hover, .category_news .color2 h4 a:hover {
+	color: $color2 !important
+}
+
+.category_news .color2 h3 {
+	background: $color2;
+}
+
+.category_news .color2 img {
+	border-top: 2px solid $color2
+}
+
+.category_news .color2 .info {
+	background: $color2;
+}
+
+.category_news .color2 ul li span {
+	background: $color2;
+}
+
+#header_area .color2 a {
+	border-color: $color2 !important;
+}
+
+#header_area .color2 a:hover,#header_area .color2.current-menu-item a {
+	background: $color2 !important
+}
+
+.style2 .color2 ul, .style3 .#{$color2} ul {
+	border-top: 2px solid $color2
+}
+
+.style2 .color2 ul .thumb:hover {
+	border: 4px solid $color2;
+}
+
+.style3 .color2 ul .thumb:hover {
+	border: 4px solid $color2;
+}
+
+//color 3
+.category_news .color3 ul li a:hover, .category_news .color3 h4 a:hover {
+	color: $color3 !important
+}
+
+.category_news .color3 h3 {
+	background: $color3;
+}
+
+.category_news .color3 img {
+	border-top: 2px solid $color3
+}
+
+.category_news .color3 .info {
+	background: $color3;
+}
+
+.category_news .color3 ul li span {
+	background: $color3;
+}
+
+#header_area .color3 a {
+	border-color: $color3 !important;
+}
+
+#header_area .color3 a:hover,#header_area .color3.current-menu-item a {
+	background: $color3 !important
+}
+
+.style2 .color3 ul, .style3 .#{$color3} ul {
+	border-top: 2px solid $color3
+}
+
+.style2 .color3 ul .thumb:hover {
+	border: 4px solid $color3;
+}
+
+.style3 .color3 ul .thumb:hover {
+	border: 4px solid $color3;
+}
+
+//color 4
+.category_news .color4 ul li a:hover, .category_news .color4 h4 a:hover {
+	color: $color4 !important
+}
+
+.category_news .color4 h3 {
+	background: $color4;
+}
+
+.category_news .color4 img {
+	border-top: 2px solid $color4
+}
+
+.category_news .color4 .info {
+	background: $color4;
+}
+
+.category_news .color4 ul li span {
+	background: $color4;
+}
+
+#header_area .color4 a {
+	border-color: $color4 !important;
+}
+
+#header_area .color4 a:hover,#header_area .color4.current-menu-item a {
+	background: $color4 !important
+}
+
+.style2 .color4 ul, .style3 .#{$color4} ul {
+	border-top: 2px solid $color4
+}
+
+.style2 .color4 ul .thumb:hover {
+	border: 4px solid $color4;
+}
+
+.style3 .color4 ul .thumb:hover {
+	border: 4px solid $color4;
+}
+
+//color 5
+.category_news .color5 ul li a:hover, .category_news .color5 h4 a:hover {
+	color: $color5 !important
+}
+
+.category_news .color5 h3 {
+	background: $color5;
+}
+
+.category_news .color5 img {
+	border-top: 2px solid $color5
+}
+
+.category_news .color5 .info {
+	background: $color5;
+}
+
+.category_news .color5 ul li span {
+	background: $color5;
+}
+
+#header_area .color5 a {
+	border-color: $color5 !important;
+}
+
+#header_area .color5 a:hover,#header_area .color5.current-menu-item a {
+	background: $color5 !important
+}
+
+.style2 .color5 ul, .style3 .#{$color5} ul {
+	border-top: 2px solid $color5
+}
+
+.style2 .color5 ul .thumb:hover {
+	border: 4px solid $color5;
+}
+
+.style3 .color5 ul .thumb:hover {
+	border: 4px solid $color5;
+}
+
+//color 6
+.category_news .color6 ul li a:hover, .category_news .color6 h4 a:hover {
+	color: $color6 !important
+}
+
+.category_news .color6 h3 {
+	background: $color6;
+}
+
+.category_news .color6 img {
+	border-top: 2px solid $color6
+}
+
+.category_news .color6 .info {
+	background: $color6;
+}
+
+.category_news .color6 ul li span {
+	background: $color6;
+}
+
+#header_area .color6 a {
+	border-color: $color6 !important;
+}
+
+#header_area .color6 a:hover,#header_area .color6.current-menu-item a {
+	background: $color6 !important
+}
+
+.style2 .color6 ul, .style3 .#{$color6} ul {
+	border-top: 2px solid $color6
+}
+
+.style2 .color6 ul .thumb:hover {
+	border: 4px solid $color6;
+}
+
+.style3 .color6 ul .thumb:hover {
+	border: 4px solid $color6;
+}
+
+//color 7
+.category_news .color7 ul li a:hover, .category_news .color7 h4 a:hover {
+	color: $color7 !important
+}
+
+.category_news .color7 h3 {
+	background: $color7;
+}
+
+.category_news .color7 img {
+	border-top: 2px solid $color7
+}
+
+.category_news .color7 .info {
+	background: $color7;
+}
+
+.category_news .color7 ul li span {
+	background: $color7;
+}
+
+#header_area .color7 a {
+	border-color: $color7 !important;
+}
+
+#header_area .color7 a:hover,#header_area .color7.current-menu-item a {
+	background: $color7 !important
+}
+
+.style2 .color7 ul, .style3 .#{$color7} ul {
+	border-top: 2px solid $color7
+}
+
+.style2 .color7 ul .thumb:hover {
+	border: 4px solid $color7;
+}
+
+.style3 .color7 ul .thumb:hover {
+	border: 4px solid $color7;
+}
+
